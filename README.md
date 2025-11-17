@@ -6,3 +6,5 @@ Individual planning stage for DSCI 100 project
 - Added methods overview  
 
 - Listed data sources 
+
+- Added project goals  
