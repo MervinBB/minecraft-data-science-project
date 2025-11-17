@@ -8,3 +8,5 @@ Individual planning stage for DSCI 100 project
 - Listed data sources 
 
 - Added project goals  
+
+- Finalized planning notes
